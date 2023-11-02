@@ -9,7 +9,7 @@ integrates a deep learning model for facial mood detection and utilizes Dialogfl
 
 - **Chatbot for Mental Health Resources**: Innersight includes a chatbot built with Dialogflow that interacts with users to determine their mental health needs and provides relevant resources and information.
 
-- **Face Mood Detection**: The application utilizes facial recognition technology with a Python model to detect the user's mood and offers feedback or guidance based on the detected emotion.
+- **Face Mood Detection**: The application utilizes facial recognition technology with a Deep Learning model to detect the user's mood and offers feedback or guidance based on the detected emotion.
 
 ## Getting Started
 
